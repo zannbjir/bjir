@@ -1,0 +1,84 @@
+let handler = async (m, { conn, text }) => {
+    conn.penis = conn.penis || {};
+    
+    if (!text)
+
+		return m.reply(
+
+			`Masukkan nama kamu!\n\nContoh:\n${usedPrefix + command} Restu gay`
+
+		);
+	let data = conn.penis[text] || pickRandom(mypenis);
+
+	conn.penis[text] = data;
+    
+    let result = `
+
+👤 Nama: *${text}*
+
+*${data}*
+
+
+  `.trim();
+
+	conn.reply(m.chat, result, m);
+
+};
+
+handler.help = ["cekkontol", "cekpenis"];
+
+handler.tags = ["game"];
+
+handler.command = /^(cekpenis|cekkontol)$/i;
+
+export default handler;
+
+function pickRandom(list) {
+
+	return list[Math.floor(Math.random() * list.length)];
+
+}
+
+const mypenis = [
+
+	"Ukuran: 1cm\n\nBang… itu bukan kontol, itu *tanda baca* 😂😂. ",
+
+	"Ukuran: 2cm\n\nKecil banget sampe kalo pipis suaranya kayak 'tik'.",
+
+	"Ukuran: 3cm\n\nItu mah bukan kecil, itu *demo mode*. Belum full version.",
+
+	"Ukuran: 4cm\n\nKalau ereksi masih kalah panjang sama odol sachet.",
+
+	"Ukuran: 5cm\n\nLumayan… buat mijit keyboard laptop.",
+
+	"Ukuran: 6cm\n\nMasuk kategori: ‘bisa dipake, tapi jangan berharap’.",
+
+	"Ukuran: 7cm\n\nGak panjang, tapi *niat*.",
+
+	"Ukuran: 8cm\n\nUkuran standar anak tongkrongan yang sok-sokan.",
+
+	"Ukuran: 9cm\n\nCewek bilang: ‘emang segitu doang?’",
+
+	"Ukuran: 10cm\n\nBoleh lah, minimal ga bikin ketawa pas buka celana.",
+
+	"Ukuran: 12cm\n\nMulai ada masa depan, tapi belum masuk KTP.",
+
+	"Ukuran: 14cm\n\nIni baru *kont*l rasa kont*l*. Mantap, bro.",
+
+	"Ukuran: 15cm\n\nKalau goyang, kipas angin kalah angin.",
+
+	"Ukuran: 17cm\n\nCewek auto bilang: ‘anjir serius ini?’",
+
+	"Ukuran: 18cm\n\nHati-hati, ini udah zona *pernapasan terganggu*.",
+
+	"Ukuran: 20cm\n\nBukan penis lagi, ini *alat pemecah keluarga orang*.",
+
+	"Ukuran: 22cm\n\nKalau dipoto, kamera HP ngelag.",
+
+	"Ukuran: 25cm\n\nIni bukan kontol, ini *item legendary*.",
+
+	"Ukuran: 30cm\n\nBro… stop. Itu buat nyiksa, bukan buat cinta.",
+
+	"Ukuran: ???\n\nSistem ngaco. Ukuran lu gak manusiawi. Developer bot mau ngocok dulu 😹"
+
+];
