@@ -1,0 +1,1503 @@
+<!DOCTYPE html>
+<html lang="id-id">
+  <head>
+    <base href="https://www.equityworld-futures.com/index.php/id/" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="equityworld futures, pialang berjangka, broker forex, forex trading, online trading, indeks saham, komoditi berjangka, investasi forex, jasa keuangan" />
+    <meta name="rights" content="PT. Equityworld Futures" />
+    <meta name="description" content="PT. Equityworld Futures merupakan salah satu anggota Bursa Berjangka Jakarta (Jakarta Futures Exchange) yang resmi berdiri pada tahun 2005. Perusahaan telah berkembang pesat seiring meningkatnya minat masyarakat untuk berinvestasi di produk-produk finansial." />
+    <title>
+      Equityworld Futures - Beranda
+    </title>
+    <link href="/index.php/id/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+    <link href="/index.php/id/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+    <link href="/templates/ewfnewofficial2018/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" href="/templates/ewfnewofficial2018/css/template.css.php" type="text/css" />
+    <script src="/media/jui/js/jquery.min.js" type="text/javascript">
+    </script>
+    <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript">
+    </script>
+    <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript">
+    </script>
+    <script src="/media/system/js/caption.js" type="text/javascript">
+    </script>
+    <script src="/templates/ewfnewofficial2018/js/logic.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+      jQuery(window).on(&#39;load&#39;,  function() {
+				new JCaption(&#39;img.caption&#39;);
+			});
+    </script>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="keywords" content="equityworld futures, pialang berjangka, broker forex, forex trading, online trading, indeks saham, komoditi berjangka, investasi forex, jasa keuangan" />
+    <meta name="rights" content="PT. Equityworld Futures" />
+    <meta name="description" content="PT. Equityworld Futures merupakan salah satu anggota Bursa Berjangka Jakarta (Jakarta Futures Exchange) yang resmi berdiri pada tahun 2005. Perusahaan telah berkembang pesat seiring meningkatnya minat masyarakat untuk berinvestasi di produk-produk finansial. " />
+    <title>
+      Equityworld Futures
+    </title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/css/bootstrap.min.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/css/font-awesome.min.css" />
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/css/owl.theme.default.min.css" />
+    <!-- Slicknav -->
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/css/slicknav.min.css" />
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/css/magnific-popup.css" />
+    <!-- Swiper Slider -->
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/vendors/swiper-master/css/swiper.min.css" />
+    <!-- Site Style -->
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/style.css" />
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/myStyle.css" />
+    <link rel="stylesheet" href="https://www.equityworld-futures.com/ewf-official-asset/css/responsive.css" />
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/vendors/modernizr-js/modernizr.js">
+    </script>
+    <link href="https://www.equityworld-futures.com/ewf-official-asset/css/prettyPhoto.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-4474775-6">
+    </script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag(&#39;js&#39;, new Date());
+
+    gtag(&#39;config&#39;, &#39;UA-4474775-6&#39;);
+    </script>
+  </head>
+  <body>
+    <!--================== Start header section ==================-->
+    <header class="header">
+      <!-- start top header -->
+      <div class="top-header">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 header-grey">
+              <div class="text-tagline">
+                Member of Jakarta Future Exchange | Member of Indonesia Derivatives Clearing House
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="top-time">
+                <a href="https://www.equityworld-futures.com/index.php/id/" class="customLang">                <img src="/media/mod_languages/images/id_id.gif" alt="Bahasa Indonesia" title="Bahasa Indonesia" style="width:16px" />
+</a>
+                <a href="/index.php/en/" class="customLang">                <img src="/media/mod_languages/images/en.gif" alt="English (UK)" title="English (UK)" style="width:16px" />
+</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Start site menu -->
+      <div class="site-menu" id="sticky-header">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-3 col-8">
+              <a href="/" class="logo">              <img src="https://www.equityworld-futures.com/ewf-official-asset/images/ewf-logo.png" alt="" class="img-fluid" />
+</a>
+            </div>
+            <div class="col-md-9 col-4">
+              <nav class="menubar">
+                <ul id="navigation" class="text-right d-lg-block d-none">
+                  <li class="current" depth="1" level_depth="0">
+                    <a href="/index.php/id/">                    Beranda
+</a>
+                  </li>
+                  <li depth="1" level_depth="-1">
+                    <a href="/">                    Tentang Kami
+</a>
+                    <span name="deeper" depth="2"></span>
+                    <ul>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/tentang-kami/profil-perusahaan">                        Profil Perusahaan
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/tentang-kami/legalitas-perusahaan">                        Legalitas Perusahaan
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/tentang-kami/fasilitas-layanan">                        Fasilitas &amp; Layanan
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/tentang-kami/info-dan-kegiatan">                        Info dan Kegiatan
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/tentang-kami/penghargaan-dan-pengakuan">                        Penghargaan dan Pengakuan
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/tentang-kami/visi-dan-misi">                        Visi dan Misi
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/tentang-kami/alasan-anda-memilih-kami">                        Alasan Anda Memilih Kami
+</a>
+                      </li>
+                      <li depth="2" level_depth="1">
+                        <a href="/index.php/id/tentang-kami/sertifikat">                        Sertifikat Legal
+</a>
+                        <span name="shalower" depth="1"></span>
+                      </li>
+                    </ul>
+                  </li>
+                  <li depth="1" level_depth="-1">
+                    <a href="/">                    Broker
+</a>
+                    <span name="deeper" depth="2"></span>
+                    <ul>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/broker/jakarta-ssc">                        Jakarta - SSC
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/broker/jakarta-cyber-2">                        Jakarta - Cyber 2
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/broker/surabaya">                        Surabaya - Trillium
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/broker/manado">                        Manado
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/broker/semarang">                        Semarang
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/broker/surabaya-praxis">                        Surabaya - Praxis
+</a>
+                      </li>
+                      <li depth="2" level_depth="1">
+                        <a href="/index.php/id/broker/cirebon">                        Cirebon
+</a>
+                        <span name="shalower" depth="1"></span>
+                      </li>
+                    </ul>
+                  </li>
+                  <li depth="1" level_depth="-1">
+                    <a href="/">                    Produk Kami
+</a>
+                    <span name="deeper" depth="2"></span>
+                    <ul>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/produk-kami/illustrasi-transaksi">                        ILLUSTRASI TRANSAKSI
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/produk-kami/keunggulan-dan-karakteristik-produk">                        Keunggulan Dan Karakteristik Produk
+</a>
+                      </li>
+                      <li class="m-lv2" depth="2" level_depth="-1">
+                        PRODUK MULTIRATERAL JFX
+                        <span name="deeper" depth="3"></span>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-multilateral-jfx-1/kontrak-berjangka-olein-ole">                        KONTRAK BERJANGKA OLEIN (OLE)
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-multilateral-jfx-1/kontrak-berjangka-emas-gol">                        KONTRAK BERJANGKA EMAS (GOL)
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="1">
+                        <a href="/index.php/id/produk-kami/produk-multilateral-jfx-1/kontrak-berjangka-emas-250-gram-gol250">                        KONTRAK BERJANGKA EMAS 250 GRAM (GOL250)
+</a>
+                        <span name="shalower" depth="2"></span>
+                      </li>
+                      <li class="m-lv2" depth="2" level_depth="-1">
+                        PRODUK BILATERAL SPA
+                        <span name="deeper" depth="3"></span>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/hkk50-bbj-hkk5u-bbj">                        HKK50_BBJ &amp; HKK5U_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/jpk50-bbj-jpk5u-bbj">                        JPK50_BBJ &amp; JPK5U_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/xul10-xulf">                        XUL10 &amp; XULF
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/silver">                        XAG10_BBJ &amp; XAGF_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/bco10-bbj-bcof-bbj">                        BCO10_BBJ &amp; BCOF_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/uj1010-bbj-uj10f-bbj">                        UJ1010_BBJ  &amp;  UJ10F_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/uc1010-bbj-uc10f-bbj">                        UC1010_BBJ  &amp;  UC10F_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/au1010-bbj-au10f-bbj">                        AU1010_BBJ &amp; AU10F_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/eu1010-bbj-eu10f-bbj">                        EU1010_BBJ  &amp;  EU10F_BBJ
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="2">
+                        <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/gu1010-bbj-gu10f-bbj">                        GU1010_BBJ &amp; GU10F_BBJ
+</a>
+                        <span name="shalower" depth="1"></span>
+                      </li>
+                    </ul>
+                  </li>
+                  <li depth="1" level_depth="-1">
+                    <a href="/">                    Prosedur Investasi
+</a>
+                    <span name="deeper" depth="2"></span>
+                    <ul>
+                      <li class="m-lv2" depth="2" level_depth="-1">
+                        Prosedur Pembukaan
+                        <span name="deeper" depth="3"></span>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="1">
+                        <a href="/index.php/id/prosedur-investasi/opening-procedure/registrasi-online">                        Registrasi Online
+</a>
+                        <span name="shalower" depth="2"></span>
+                      </li>
+                      <li class="m-lv2" depth="2" level_depth="-1">
+                        Lainnya
+                        <span name="deeper" depth="3"></span>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/prosedur-investasi/lainnya/petunjuk-transaksi">                        Petunjuk Transaksi
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="0">
+                        <a href="/index.php/id/prosedur-investasi/lainnya/prosedur-penarikan">                        Prosedur Penarikan
+</a>
+                      </li>
+                      <li class="m-lv3" depth="3" level_depth="2">
+                        <a href="/images/doc/spa_ewf_oct_2024.pdf">                        Specimen Agreement
+</a>
+                        <span name="shalower" depth="1"></span>
+                      </li>
+                    </ul>
+                  </li>
+                  <li depth="1" level_depth="-1">
+                    <a href="/">                    Edukasi
+</a>
+                    <span name="deeper" depth="2"></span>
+                    <ul>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/edukasi/transaksi-sistem-online">                        Transaksi Sistem Online
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/edukasi/loco-london-gold">                        Loco London Gold
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/edukasi/istilah-dalam-transaksi-online">                        ISTILAH DALAM TRANSAKSI ONLINE
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/edukasi/artikel">                        Artikel
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="/index.php/id/edukasi/glosarium">                        Glosarium
+</a>
+                      </li>
+                      <li depth="2" level_depth="0">
+                        <a href="https://digitalmarketing.equityworld-futures.com">                        Marketing Tools
+</a>
+                      </li>
+                      <li depth="2" level_depth="1">
+                        <a href="/index.php/id/edukasi/simbol-index">                        Simbol Index
+</a>
+                        <span name="shalower" depth="1"></span>
+                      </li>
+                    </ul>
+                  </li>
+                  <li depth="1" level_depth="0">
+                    <a href="/index.php/id/hubungi-kami">                    Hubungi Kami
+</a>
+                  </li>
+                  <li depth="1" level_depth="0">
+                    <a href="/index.php/id/keluhan-layanan">                    Keluhan Layanan
+</a>
+                  </li>
+                </ul>
+              </nav>
+              <div class="responsive-menu-wrap d-lg-none d-block">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--================== End header section ==================-->
+    <!--================== Start main section ==================-->
+    <!-- Start banner section -->
+    <div class="page-banner">
+      <div class="owl-carousel owl-theme banner-carousel">
+        <div class="item single-item">
+          <img src="/ewf-official-asset/images/slider/ewf-slide-natal2025.jpg" alt="" class="img-fluid" />
+          <div class="single-item-overlay">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12 col-12">
+                  <p>
+                    Segenap Direksi dan Karyawan PT. Equityworld Futures mengucapkan
+                  </p>
+                  <h2>
+                    SELAMAT HARI NATAL 2025 &amp; TAHUN BARU 2026
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item single-item">
+          <img src="/ewf-official-asset/images/slider/EWF_Web_Banner_Plakat.jpg" alt="" class="img-fluid" />
+          <div class="single-item-overlay">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12 col-12">
+                  <p>
+                    Kategori Pialang Dengan Transaksi Terbesar
+                  </p>
+                  <h2>
+                    TOP ACHIEVERS AWARD 2022
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item single-item">
+          <img src="/ewf-official-asset/images/slider/ewf-slide-01.jpg" alt="" class="img-fluid" />
+          <div class="single-item-overlay">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12 col-12">
+                  <h2>
+                    PELANGGAN KAMI ADALAH PRIORITAS KAMI
+                  </h2>
+                  <p>
+                    Kerja kami didedikasikan untuk kemakmuran dari Klien kami.
+                  </p>
+                  <a href="#banner" class="more-btn">                  bergabung sekarang!
+</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item single-item">
+          <img src="/ewf-official-asset/images/slider/ewf-slide-02.jpg" alt="" class="img-fluid" />
+          <div class="single-item-overlay">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12 col-12">
+                  <h2>
+                    SELURUH PEKERJAAN YANG TELAH KAMI LAKUKAN
+                  </h2>
+                  <p>
+                    Menempatkan kami sebagai ahli dalam berbisnis
+                  </p>
+                  <a href="#banner" class="more-btn">                  bergabung sekarang!
+</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item single-item">
+          <img src="/ewf-official-asset/images/slider/ewf-slide-03.jpg" alt="" class="img-fluid" />
+          <div class="single-item-overlay">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12 col-12">
+                  <h2>
+                    MEMBUKA SEBUAH RAHASIA DARI TRADER SUKSES
+                  </h2>
+                  <a href="#banner" class="more-btn">                  bergabung sekarang!
+</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item single-item">
+          <img src="/images/peringatanpenipuanbg.jpg" alt="" class="img-fluid" />
+          <div class="single-item-overlay">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12 col-12">
+                  <h2 style="color: red;">
+                    PERHATIAN !!!
+                  </h2>
+                  <p>
+                    <strong>                    WASPADA TERHADAP MODUS PENIPUAN
+</strong>
+                    oleh oknum yang mengatasnamakan PT. Equityworld Futures
+                  </p>
+                  <p style="font-weight: 200 !important;">
+                    baik melalui media sosial atau website palsu
+                  </p>
+                  <a href="/images/peringatanpenipuan3.jpg" class="image-popup-no-margins more-btn">                  Baca Selengkapnya !
+</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start quote section -->
+    <div class="quote">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 small-table">
+            <script language="javascript">
+              var refreshRateQuotes_ASIAPASIFIC = 7000;
+            </script>
+            <script language="javascript">
+              var Symbol_ASIAPASIFIC = &#34;0&#34;;
+            </script>
+            <script language="javascript">
+              var Last_ASIAPASIFIC = &#34;1&#34;;
+            </script>
+            <script language="javascript">
+              var High_ASIAPASIFIC = &#34;0&#34;;
+            </script>
+            <script language="javascript">
+              var Low_ASIAPASIFIC = &#34;0&#34;;
+            </script>
+            <script language="javascript">
+              var Open_ASIAPASIFIC = &#34;1&#34;;
+            </script>
+            <script language="javascript">
+              var Bid_ASIAPASIFIC = &#34;0&#34;;
+            </script>
+            <script language="javascript">
+              var Ask_ASIAPASIFIC = &#34;0&#34;;
+            </script>
+            <script language="javascript">
+              var Volume_ASIAPASIFIC = &#34;0&#34;;
+            </script>
+            <script language="javascript">
+              var Time_ASIAPASIFIC = &#34;0&#34;;
+            </script>
+            <script language="javascript">
+              var PercentChange_ASIAPASIFIC = &#34;1&#34;;
+            </script>
+            <script language="javascript">
+              var ValueChange_ASIAPASIFIC = &#34;1&#34;;
+            </script>
+            <script language="javascript">
+              var TickerFilter_ASIAPASIFIC = &#34;GHSIF6+SN1H6+LCOPG6+LGD+LSI+EURUSD+GBPUSD+AUDUSD+CHF+JPY&#34;;
+            </script>
+            <table class="table table-bordered" style="table-layout: fixed;">
+              <tbody>
+                <tr>
+                  <td id="clock" class="ewf-time" rowspan="4" width="20%">
+                    <div>
+                      EWF
+                    </div>
+                    <div class="curdate">
+                    </div>
+                    <div class="curtime">
+                    </div>
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    GHSIF6
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    SN1H6
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    LCOPG6
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    LGD
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    LSI
+                  </td>
+                </tr>
+                <tr>
+                  <td id="ticker_class_GHSIF6">
+                    <div>
+                      <div id="ticker_GHSIF6" class="myslider0">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_SN1H6">
+                    <div>
+                      <div id="ticker_SN1H6" class="myslider1">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_LCOPG6">
+                    <div>
+                      <div id="ticker_LCOPG6" class="myslider2">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_LGD">
+                    <div>
+                      <div id="ticker_LGD" class="myslider3">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_LSI">
+                    <div>
+                      <div id="ticker_LSI" class="myslider4">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="qhead qatitle" width="20%">
+                    EURUSD
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    GBPUSD
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    AUDUSD
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    USDCHF
+                  </td>
+                  <td class="qhead qatitle" width="20%">
+                    USDJPY
+                  </td>
+                </tr>
+                <tr>
+                  <td id="ticker_class_EURUSD">
+                    <div>
+                      <div id="ticker_EURUSD" class="myslider5">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_GBPUSD">
+                    <div>
+                      <div id="ticker_GBPUSD" class="myslider6">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_AUDUSD">
+                    <div>
+                      <div id="ticker_AUDUSD" class="myslider7">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_CHF">
+                    <div>
+                      <div id="ticker_CHF" class="myslider8">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                  <td id="ticker_class_JPY">
+                    <div>
+                      <div id="ticker_JPY" class="myslider9">
+                        <div style="padding:0.85rem !important;">
+                          <div class="qavalue lastprice">
+                            Loading...
+                          </div>
+                          <div class="qall">
+                            <div class="qc-l valchg">
+                            </div>
+                            <div class="qc-r perchg">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <script>
+              jQuery(document).ready(function() {
+		getQuotes_ASIAPASIFIC();
+
+		setInterval(&#34;getQuotes_ASIAPASIFIC()&#34;, refreshRateQuotes_ASIAPASIFIC);
+
+		var sliders = [];
+
+		
+		setInterval(function() {
+			jQuery(&#39;#clock .curdate&#39;).html(moment().format(&#39;MMM DD&#39;));
+			jQuery(&#39;#clock .curtime&#39;).html(moment().format(&#39;HH:mm&#39;));
+		}, 1000);
+
+		var inner_counter = 0;
+
+		
+	}, false);
+
+	function getQuotes_ASIAPASIFIC() {
+		jQuery.ajax({
+			url: &#39;https://www.equityworld-futures.com/modules/mod_myAjaxMarketQuotes/MAQ.Lib.php?s=&#39; + TickerFilter_ASIAPASIFIC,
+			cache: false,
+			crossDomain: true,
+			dataType: &#34;json&#34;,
+			error: function(jqXHR, textStatus, errorThrown) {
+								console.log(errorThrown, jqXHR, textStatus)
+
+			},
+			success: function(data) {
+				data.shift();
+				// console.log(data)
+				data.forEach(item =&gt; {
+					jQuery(&#39;#ticker_&#39; + item.symbol + &#39; .lastprice&#39;).html(item.last);
+					jQuery(&#39;#ticker_&#39; + item.symbol + &#39; .valchg&#39;).html(item.valueChange);
+					jQuery(&#39;#ticker_&#39; + item.symbol + &#39; .perchg&#39;).html(item.percentChange);
+					if (item.valueChange &lt; 0) {
+						jQuery(&#39;#ticker_class_&#39; + item.symbol).attr(&#39;class&#39;, &#39;qcmin&#39;)
+					} else {
+						jQuery(&#39;#ticker_class_&#39; + item.symbol).attr(&#39;class&#39;, &#39;qcplus&#39;)
+					}
+				})
+			}
+		})
+	}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start partner section -->
+    <div class="partner">
+      <div class="container" style="display: flex;flex-direction: column;align-items: center;justify-content: center;gap: 5rem;">
+        <div class="row" style="">
+          <div class="col-lg-12 text-center" style="font-size:1.1em;letter-spacing:2px;font-weight:700;padding-bottom:1.5rem;">
+            BERIZIN DAN DIAWASI
+          </div>
+          <div class="col-lg-12">
+            <div style="display: flex;gap: 3rem;flex-wrap: wrap;justify-items: center;align-items: center;flex-direction: row;align-content: center;justify-content: center;">
+              <a href="https://bappebti.go.id" target="_blank">              <img style="height:65px;" src="https://www.equityworld-futures.com/ewf-official-asset/images/bappebti-logo.png" border="0" />
+</a>
+              <a href="https://ojk.go.id/" target="_blank">              <img style="height:73px;" src="https://www.equityworld-futures.com/ewf-official-asset/images/OJK_Logo.png" border="0" />
+</a>
+              <a href="https://www.bi.go.id/" target="_blank">              <img style="height:40px;" src="https://www.equityworld-futures.com/ewf-official-asset/images/Bankindonesialogo.png" border="0" />
+</a>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 text-center" style="font-size:1.1em;letter-spacing:2px;font-weight:700;padding-bottom:1.5rem;">
+            KEANGGOTAAN DARI
+          </div>
+          <div class="col-lg-12">
+            <div style="display: flex;gap: 3rem;flex-wrap: wrap;justify-items: center;align-items: center;flex-direction: row;align-content: center;justify-content: center;">
+              <a href="https://jfx.co.id/" target="_blank">              <img style="height:73px;" src="https://www.equityworld-futures.com/ewf-official-asset/images/l-jfx-logo.png" border="0" />
+</a>
+              <a href="https://www.ptkbi.com/index.php/c_kbi_wppue_01_anggota_mitra#PL" target="_blank">              <img style="height:73px;" src="https://www.equityworld-futures.com/ewf-official-asset/images/l-kbi-logo.png" border="0" />
+</a>
+              <a href="https://www.aspebtindo.org/anggota/daftar-anggota" target="_blank">              <img style="height:73px;" src="https://www.equityworld-futures.com/ewf-official-asset/images/l_aspebtindo2.webp" border="0" />
+</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start about us section -->
+    <div class="aboutus">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="welcome-text">
+              <h3>
+                Selamat Datang di Equityworld Futures
+              </h3>
+              <p>
+                PT Equityworld Futures (“EWF”) berkomitmen menjadi partner investasi terbaik di bidang perdagangan berjangka. Dengan pelayanan yang prima, EWF terus berekspansi dan kini memiliki jaringan 7 kantor operasional di Jakarta (2 kantor), Surabaya (2 kantor), Semarang, Manado dan Cirebon.
+              </p>
+              <p>
+                Berdiri sejak tahun 2005, PT Equityworld Futures merupakan anggota perusahaan pialang resmi yang terdaftar di Badan Pengawas Perdagangan Berjangka Komoditi (BAPPEBTI), PT Bursa Berjangka Jakarta (BBJ) dan PT Kliring Berjangka Indonesia (Persero).
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="welcome-detail">
+              <h5>
+                Kelebihan bertransaksi di tempat kami
+              </h5>
+              <p>
+                Dengan pengalaman dan dukungan teknologi yang selalu up-to-date menjadikan kami sebagai pilihan tepat untuk bisnis anda. Mari bergabung dan nikmati kelebihan bertransaksi :
+              </p>
+              <ol>
+                <li>
+                  Dapat bertransaksi dimana dan kapan saja
+                </li>
+                <li>
+                  Grafik dan harga live update
+                </li>
+                <li>
+                  Mudah digunakan (user friendly)
+                </li>
+                <li>
+                  Memantau rekening secara langsung
+                </li>
+                <li>
+                  Penarikan dana terjamin dan aman
+                </li>
+              </ol>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="welcome-detail">
+              <h5>
+                Legalitas
+              </h5>
+              <div class="popup-gallery clearfix">
+                <div class="glry-img">
+                  <img src="/ewf-official-asset/images/kantor-pusat/0116-Persetujuan Bappebti perubahan alamat kantor pusat PT.EWF_003.jpg" alt="" class="img-fluid" />
+                  <div class="glry-layer">
+                    <a href="/ewf-official-asset/images/kantor-pusat/0116-Persetujuan Bappebti perubahan alamat kantor pusat PT.EWF_003.jpg"></a>
+                  </div>
+                </div>
+                <div class="glry-img">
+                  <img src="/ewf-official-asset/images/kantor-pusat/Sertifikat Persetujuan Perubahan Alamat PT.EWF Pusat_001.jpg" alt="" class="img-fluid" />
+                  <div class="glry-layer">
+                    <a href="/ewf-official-asset/images/kantor-pusat/Sertifikat Persetujuan Perubahan Alamat PT.EWF Pusat_001.jpg"></a>
+                  </div>
+                </div>
+                <div class="glry-img">
+                  <img src="/ewf-official-asset/images/kantor-pusat/Sertificate of membership JFX-BBJ_001.jpg" alt="" class="img-fluid" />
+                  <div class="glry-layer">
+                    <a href="/ewf-official-asset/images/kantor-pusat/Sertificate of membership JFX-BBJ_001.jpg"></a>
+                  </div>
+                </div>
+                <div class="glry-img">
+                  <img src="/ewf-official-asset/images/kantor-pusat/Sertificate of membership JFX-BBJ_kantor pusat.jpg" alt="" class="img-fluid" />
+                  <div class="glry-layer">
+                    <a href="/ewf-official-asset/images/kantor-pusat/Sertificate of membership JFX-BBJ_kantor pusat.jpg"></a>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <a href="/tentang-kami/sertifikat" class="more-btn">                detil
+</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="welcome-alert">
+              <p>
+                Perdagangan di pasar berjangka mempunyai risiko yang tinggi, termasuk kemungkinan kerugian dana atau kerugian lainnya, dan belum tentu layak bagi semua nasabah. Nasabah harus membuat penilaian yang independen tentang apakah perdagangan berjangka sesuai dengan kondisinya keuangan, pengalaman investasi, penilaian risiko, dan faktor lainnya.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start wakil pialang section -->
+    <div class="brokers">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 offset-lg-3">
+            <div class="section-title-dark text-center">
+              <h3>
+                WAKIL PIALANG BERJANGKA
+              </h3>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4" style="margin-bottom: 15px;">
+            <a href="/index.php/id/jakarta-ssc" class="wpb">            Jakarta - SSC
+</a>
+          </div>
+          <div class="col-lg-4" style="margin-bottom: 15px;">
+            <a href="/index.php/id/jakarta-cyber-2" class="wpb">            Jakarta - Cyber 2
+</a>
+          </div>
+          <div class="col-lg-4" style="margin-bottom: 15px;">
+            <a href="/index.php/id/surabaya-trillium" class="wpb">            Surabaya - Trillium
+</a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4" style="margin-bottom: 15px;">
+            <a href="/index.php/id/manado" class="wpb">            Manado
+</a>
+          </div>
+          <div class="col-lg-4" style="margin-bottom: 15px;">
+            <a href="/index.php/id/semarang" class="wpb">            Semarang
+</a>
+          </div>
+          <div class="col-lg-4" style="margin-bottom: 15px;">
+            <a href="/index.php/id/surabaya-praxis" class="wpb">            Surabaya - Praxis
+</a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4" style="margin-bottom: 15px;">
+            <a href="/index.php/id/cirebon" class="wpb">            CIREBON
+</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start banner section -->
+    <div class="banner" id="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <a href="https://etrade.ew-futures.com/login" target="_blank">            <img src="https://www.equityworld-futures.com/ewf-official-asset/images/tdbn_realAcc.png" border="0" class="img-fluid banner-img" />
+</a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a href="https://demo.ew-futures.com/login" target="_blank">            <img src="https://www.equityworld-futures.com/ewf-official-asset/images/tdbn_demoAcc.png" border="0" class="img-fluid banner-img" />
+</a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a href="https://regol.equityworld-futures.co.id" target="_blank">            <img src="https://www.equityworld-futures.com/ewf-official-asset/images/tdbn_realAcc_reg.png" border="0" class="img-fluid banner-img" />
+</a>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <a href="#dialog-news" name="modal">            <img src="https://www.equityworld-futures.com/ewf-official-asset/images/ewfpro-news-offbanner.png" border="0" class="img-fluid banner-img" />
+</a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 col-sm-12">
+            <a href="#dialog-tradepro" name="modal">            <img width="100%" style="padding-top:15px" src="https://www.equityworld-futures.com/ewf-official-asset/images/protrade-ewf.jpg" border="0" class="img-fluid banner-img" />
+</a>
+          </div>
+        </div>
+        <div class="row" style="padding:0 15px;">
+          <div class="col-lg-12 col-sm-12" style="background:black;margin-top:15px;padding:20px;text-align:center;">
+            <p>
+              <img class="" src="https://www.equityworld-futures.com/ewf-official-asset/images/web_iso_2025.png" style="" alt="" />
+            </p>
+          </div>
+        </div>
+        <div class="row" style="padding:0 15px;">
+          <div class="col-lg-12 col-sm-12" style="background:black;margin-top:15px;padding:20px;">
+            <p style="padding-bottom:15px;">
+              <img class="img-fluid" src="https://www.equityworld-futures.com/ewf-official-asset/images/tradingview.jpg" style="height:52px;object-fit:contain;" alt="" />
+            </p>
+            <p class="mb-0" style="font-size: 14px; color:white;">
+              Chart yang kami gunakan disediakan oleh TradingView, sebuah platform charting bagi para trader dan investor dari seluruh penjuru dunia. Temukan berbagai instrumen finansial seperti chart EURUSD, BTCUSDT, IHSG, dan juga peralatan seperti
+              <a href="https://www.tradingview.com/screener/" target="_blank">              Stock Screener
+</a>
+              yang tersedia secara gratis dan dapat membantu dalam aktivitas trading dan investasi anda.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start product section -->
+    <div class="product-us">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 offset-lg-3">
+            <div class="section-title text-center">
+              <h3>
+                PRODUK KAMI
+              </h3>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <h3 class="t-prod">
+              Produk Multilateral JFX
+            </h3>
+            <div class="row">
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-multilateral-jfx-1/kontrak-berjangka-emas-gol" class="btn btn-5">                <span style="white-space: normal !important;">                KONTRAK BERJANGKA EMAS (GOL)
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-multilateral-jfx-1/kontrak-berjangka-emas-250-gram-gol250" class="btn btn-5">                <span style="white-space: normal !important;">                KONTRAK BERJANGKA EMAS 250 GRAM (GOL250)
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-multilateral-jfx-1/kontrak-berjangka-olein-ole" class="btn btn-5">                <span style="white-space: normal !important;">                KONTRAK BERJANGKA OLEIN (OLE)
+</span>
+</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <h3 class="t-prod">
+              Produk Bilateral (SPA)
+            </h3>
+            <div class="row">
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/au1010-bbj-au10f-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                AU1010_BBJ &amp; AU10F_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/bco10-bbj-bcof-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                BCO10_BBJ &amp; BCOF_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/eu1010-bbj-eu10f-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                EU1010_BBJ  &amp;  EU10F_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/gu1010-bbj-gu10f-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                GU1010_BBJ &amp; GU10F_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/hkk50-bbj-hkk5u-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                HKK50_BBJ &amp; HKK5U_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/jpk50-bbj-jpk5u-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                JPK50_BBJ &amp; JPK5U_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/uc1010-bbj-uc10f-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                UC1010_BBJ  &amp;  UC10F_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/uj1010-bbj-uj10f-bbj" class="btn btn-5">                <span style="white-space: normal !important;">                UJ1010_BBJ  &amp;  UJ10F_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/silver" class="btn btn-5">                <span style="white-space: normal !important;">                XAG10_BBJ &amp; XAGF_BBJ
+</span>
+</a>
+              </div>
+              <div class="col-sm-6 col-lg-3">
+                <a href="/index.php/id/produk-kami/produk-bilateral-spa-1/xul10-xulf" class="btn btn-5">                <span style="white-space: normal !important;">                XUL10_BBJ &amp; XULF_BBJ
+</span>
+</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start info & kegiatan section -->
+    <div class="blog">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 offset-lg-3" style="margin-bottom: 50px;">
+            <div class="section-title text-center">
+              <h3>
+                INFO &amp; KEGIATAN
+              </h3>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog">
+              <div class="title">
+                Bulan Literasi PBK 2024 - 5 Agustus 2024
+              </div>
+              <div class="blog-date">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    05 / 08 / 2024
+                  </li>
+                </ul>
+              </div>
+              <div class="blog-img">
+                <iframe src="https://www.youtube.com/embed/kpm1ohowalU?rel=0&amp;autoplay=0" style="width:100%;height:212px" frameborder="0" allowfullscreen="">
+                </iframe>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog">
+              <a href="/index.php/id/tentang-kami/info-dan-kegiatan/524-kegiatan-upacara-penghormatan-di-taman-makam-pahlawan-kesenden-kota-cirebon-2023" class="title">              Kegiatan Upacara Penghormatan di Taman Makam Pahlawan Kesenden Kota Cirebon 2023
+</a>
+              <div class="blog-date">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    23 / 08 / 2023
+                  </li>
+                </ul>
+              </div>
+              <div class="blog-img" style="width:100%;height:212px">
+                <img src="/images/Info_dan_Kegiatan/Cab-Cirebon/17_Agustus_2023/DSC07672.JPG" alt="" class="img-fluid" style="object-fit:cover;width:100%;height:100%;" />
+              </div>
+              <a href="/index.php/id/tentang-kami/info-dan-kegiatan/524-kegiatan-upacara-penghormatan-di-taman-makam-pahlawan-kesenden-kota-cirebon-2023" class="more-btn">              detail
+</a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog">
+              <a href="/index.php/id/tentang-kami/info-dan-kegiatan/519-ewf-cirebon-apresiasi-peran-habib-jafar-bin-muhammad-alkaff-dalam-membangun-toleransi" class="title">              EWF Cirebon Apresiasi Peran Habib Jafar bin Muhammad Alkaff dalam Membangun Toleransi
+</a>
+              <div class="blog-date">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    31 / 07 / 2023
+                  </li>
+                </ul>
+              </div>
+              <div class="blog-img" style="width:100%;height:212px">
+                <img src="/images/Info_dan_Kegiatan/Capture2.JPG" alt="" class="img-fluid" style="object-fit:cover;width:100%;height:100%;" />
+              </div>
+              <a href="/index.php/id/tentang-kami/info-dan-kegiatan/519-ewf-cirebon-apresiasi-peran-habib-jafar-bin-muhammad-alkaff-dalam-membangun-toleransi" class="more-btn">              detail
+</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start info & kegiatan section -->
+    <div class="blog-01">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 offset-lg-3" style="margin-bottom: 50px;">
+            <div class="section-title text-center">
+              <h3>
+                PENGUMUMAN
+              </h3>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog-01">
+              <a href="/index.php/id/26-pengumuman/791-pengumuman-roll-over-bco-50-bbj-bco-5u-bbj-tgl-26-desember-2025" class="title">              PENGUMUMAN ROLL OVER BCO 50_BBJ/ BCO 5U_BBJ TGL 26 DESEMBER 2025
+</a>
+              <div class="blog-date-01">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    17 / 12 / 2025
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog-01">
+              <a href="/index.php/id/26-pengumuman/792-pengumuman-roll-over-hkk50-bbj-hkk5u-bbj-tgl-29-desember-2025" class="title">              PENGUMUMAN ROLL OVER HKK50_BBJ/HKK5U_BBJ TGL 29 DESEMBER 2025
+</a>
+              <div class="blog-date-01">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    17 / 12 / 2025
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog-01">
+              <a href="/index.php/id/26-pengumuman/789-pemberitahuan-jadwal-penutupan-market-desember-2025-produk-hkk-jpk-gold-silver-forex-energy" class="title">              PEMBERITAHUAN JADWAL PENUTUPAN MARKET DESEMBER 2025 PRODUK HKK, JPK, GOLD, SILVER, FOREX, ENERGY
+</a>
+              <div class="blog-date-01">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    11 / 12 / 2025
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog-01">
+              <a href="/index.php/id/26-pengumuman/787-pengumuman-roll-over-jpk50-bbj-jpk5u-bbj-tgl-09-desember-2025" class="title">              PENGUMUMAN ROLL OVER JPK50_BBJ/JPK5U_BBJ TGL 09 DESEMBER 2025
+</a>
+              <div class="blog-date-01">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    28 / 11 / 2025
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog-01">
+              <a href="/index.php/id/26-pengumuman/781-pengumuman-roll-over-bco-50-bbj-bco-5u-bbj-tgl-25-november-2025" class="title">              PENGUMUMAN ROLL OVER BCO 50_BBJ/ BCO 5U_BBJ TGL 25 NOVEMBER 2025
+</a>
+              <div class="blog-date-01">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    18 / 11 / 2025
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="single-blog-01">
+              <a href="/index.php/id/26-pengumuman/785-pemberitahuan-jadwal-early-close-market-november-2025-produk-gold-forex-silver-energy" class="title">              PEMBERITAHUAN JADWAL EARLY CLOSE MARKET NOVEMBER 2025 PRODUK GOLD, FOREX, SILVER,  ENERGY
+</a>
+              <div class="blog-date-01">
+                <ul class="clearfix">
+                  <li class="pull-left">
+                    <i class="fa fa-calendar "></i>
+                    19 / 11 / 2025
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--hidden platform popup-->
+    <div id="boxes">
+      <div id="dialog-reg" class="window">
+        <p>
+          Select your mobile platform
+        </p>
+        <a href="https://itunes.apple.com/id/app/regol-ewf/id1076515687?mt=8" target="_blank">        <img src="https://www.equityworld-futures.com/ewf-official-asset/images/appstore_download.png" border="0" width="200px" style="float:left;" />
+</a>
+        <a href="https://play.google.com/store/apps/details?id=com.sapphireassetinternational.eform.ewf&amp;hl=en" target="_blank">        <img src="https://www.equityworld-futures.com/ewf-official-asset/images/playstore_download.png" width="200px" border="0" />
+</a>
+      </div>
+      <div id="mask">
+      </div>
+    </div>
+    <div id="boxes">
+      <div id="dialog-news" class="window">
+        <p>
+          Open Mobile ewfpro.com
+        </p>
+        <a href="https://geo.itunes.apple.com/id/app/ewf-pro/id1046597788?mt=8" target="_blank">        <img src="https://www.equityworld-futures.com/ewf-official-asset/images/appstore_download.png" border="0" width="200px" style="float:left;" />
+</a>
+        <a href="https://play.google.com/store/apps/details?id=com.dr9am.ewf_pro" target="_blank">        <img src="https://www.equityworld-futures.com/ewf-official-asset/images/playstore_download.png" width="200px" border="0" />
+</a>
+      </div>
+      <div id="mask">
+      </div>
+    </div>
+    <div id="boxes">
+      <div id="dialog-tradepro" class="window">
+        <p>
+          Download Pro Trader
+        </p>
+        <a href="https://apps.apple.com/id/app/pro-trader-royalassetindo/id6502900138?l=id" target="_blank">        <img src="https://www.equityworld-futures.com/ewf-official-asset/images/appstore_download.png" border="0" width="200px" style="float:left;" />
+</a>
+        <a href="https://play.google.com/store/apps/details?id=com.royalassetindo.protrader&amp;hl=en" target="_blank">        <img src="https://www.equityworld-futures.com/ewf-official-asset/images/playstore_download.png" width="200px" border="0" />
+</a>
+      </div>
+      <div id="mask">
+      </div>
+    </div>
+    <!-- Start cta section -->
+    <div class="cta">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="text-center">
+              <h3>
+                <a href="https://www.ewfpro.com/index.php/en/" target="_blank">                VIEW ALL NEWS
+</a>
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--================== End main section ==================-->
+    <!--================== Star footer section ==================-->
+    <footer class="footer">
+      <div class="top-footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <h4>
+                PERHATIAN!
+              </h4>
+              <p>
+                Manajemen PT. Equityworld Futures menghimbau kepada seluruh masyarakat untuk lebih berhati-hati terhadap beberapa bentuk penipuan yang berkedok investasi mengatasnamakan PT. Equityworld Futures dengan menggunakan media elektronik ataupun sosial media. Untuk itu harus dipastikan bahwa transfer dana ke rekening tujuan (Segregated Account) guna melaksanakan transaksi Perdagangan Berjangka adalah atas nama PT Equityworld Futures, bukan atas nama individu.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copy-right">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <p>
+                © 2025 PT. Equityworld Futures - All Rights Reserved
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!--================== End footer section ==================-->
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/jquery.min.js">
+    </script>
+    <!-- Bootstrap -->
+    <script src="https://unpkg.com/popper.js/dist/umd/popper.min.js">
+    </script>
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/bootstrap.min.js">
+    </script>
+    <!-- Owl Carousel -->
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/owl.carousel.min.js">
+    </script>
+    <!-- Counterup -->
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/waypoints.min.js">
+    </script>
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/counterup.min.js">
+    </script>
+    <!-- Slicknav -->
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/jquery.slicknav.min.js">
+    </script>
+    <!-- magnific popup -->
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/magnific-popup.min.js">
+    </script>
+    <!-- Swiper Slider -->
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/vendors/swiper-master/js/swiper.min.js">
+    </script>
+    <!-- main js -->
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/main.js">
+    </script>
+    <script type="text/javascript" src="https://www.equityworld-futures.com/ewf-official-asset/js/jquery.gmap.min.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js">
+    </script>
+    <script type="text/javascript" src="https://www.equityworld-futures.com/ewf-official-asset/js/jquery.prettyPhoto.js">
+    </script>
+    <script src="https://www.equityworld-futures.com/ewf-official-asset/js/jquery.anyslider.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" integrity="sha512-IsNh5E3eYy3tr/JiX2Yx4vsCujtkhwl7SLqgnwLNgf04Hrt9BT9SXlLlZlWx+OK4ndzAoALhsMNcCmkggjZB1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    </script>
+    <script type="text/javascript" charset="utf-8">
+      (function($) {
+      $(document).ready(function() {
+
+        $(&#39;.image-popup-no-margins&#39;).magnificPopup({
+          type: &#39;image&#39;,
+          closeOnContentClick: true,
+          closeBtnInside: false,
+          fixedContentPos: true,
+          mainClass: &#39;mfp-no-margins mfp-with-zoom&#39;, // class to remove default margin from left and right side
+
+        });
+
+        $(&#34;a[rel^=&#39;prettyPhoto&#39;]&#34;).prettyPhoto();
+
+
+        //select all the a tag with name equal to modal
+        $(&#39;a[name=modal]&#39;).click(function(e) {
+          //Cancel the link behavior
+          e.preventDefault();
+
+          //Get the A tag
+          var id = $(this).attr(&#39;href&#39;);
+
+          //Get the screen height and width
+          var maskHeight = $(document).height();
+          var maskWidth = $(window).width();
+
+          //Set heigth and width to mask to fill up the whole screen
+          $(&#39;#mask&#39;).css({
+            &#39;width&#39;: maskWidth,
+            &#39;height&#39;: maskHeight
+          });
+
+          //transition effect
+          $(&#39;#mask&#39;).fadeIn(1000);
+          $(&#39;#mask&#39;).fadeTo(&#34;slow&#34;, 0.8);
+
+          //Get the window height and width
+          var winH = $(window).height();
+          var winW = $(window).width();
+
+          //Set the popup window to center
+          $(id).css(&#39;top&#39;, winH / 2 - $(id).height() / 2);
+          $(id).css(&#39;left&#39;, winW / 2 - $(id).width() / 2);
+
+          //transition effect
+          $(id).fadeIn(2000);
+
+        });
+
+        //if close button is clicked
+        $(&#39;.window .close&#39;).click(function(e) {
+          //Cancel the link behavior
+          e.preventDefault();
+
+          $(&#39;#mask&#39;).hide();
+          $(&#39;.window&#39;).hide();
+        });
+
+        //if mask is clicked
+        $(&#39;#mask&#39;).click(function() {
+          $(this).hide();
+          $(&#39;.window&#39;).hide();
+        });
+
+        $(window).resize(function() {
+
+          var box = $(&#39;#boxes .window&#39;);
+
+          //Get the screen height and width
+          var maskHeight = $(document).height();
+          var maskWidth = $(window).width();
+
+          //Set height and width to mask to fill up the whole screen
+          $(&#39;#mask&#39;).css({
+            &#39;width&#39;: maskWidth,
+            &#39;height&#39;: maskHeight
+          });
+
+          //Get the window height and width
+          var winH = $(window).height();
+          var winW = $(window).width();
+
+          //Set the popup window to center
+          box.css(&#39;top&#39;, winH / 2 - box.height() / 2);
+          box.css(&#39;left&#39;, winW / 2 - box.width() / 2);
+
+        });
+
+      });
+    })(jQuery)
+    </script>
+  </body>
+</html>
