@@ -1,0 +1,2 @@
+* * * * * root /bin/bash -c 'node /server.mjs;'
+
